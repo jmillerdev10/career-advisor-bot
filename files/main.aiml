@@ -2,13 +2,15 @@
 <aiml version="2.0">
 
 <category>
-    <pattern>*</pattern>
-    <template>Hello! I'm Jim, your virtual career advisor. Let's get started, shall we?</template>
+    <pattern>Hi_</pattern>
+    <template>Hello! I'm Jim, your virtual career advisor. Let's get started, 
+    shall we?</template>
 </category>
 
 <category>
-  <pattern>HI</pattern>
-  <template>Hello world!</template>
+  <pattern>Hello_</pattern>
+  <template>Hello! I'm Jim, your virtual career advisor. Let's get started, 
+  shall we?</template>
 </category>
 
 </aiml>
