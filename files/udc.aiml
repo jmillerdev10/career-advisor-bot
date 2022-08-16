@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aiml>
-  <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
-  </category>
+<?xml version="1.0" encoding="utf-8" ?>
+<aiml version="2.0">
+
+<category>
+  <pattern>HI</pattern>
+  <template>Hello world!</template>
+</category>
+
 </aiml>
